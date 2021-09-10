@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PictureTester
+comment1.params=
+comment1.target=void\ recognizeColor()
+comment2.params=
+comment2.target=void\ colorArray()
+comment3.params=red\ green\ blue\ i\ j\ Lat\ Long
+comment3.target=java.lang.String\ checkForFire(int,\ int,\ int,\ int,\ int,\ double,\ double)
+comment4.params=
+comment4.target=void\ main()
+numComments=5
